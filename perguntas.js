@@ -1,23 +1,23 @@
 criaCartao(
-    'Matue',
-    'Qual foi o ultimo album do matue',
-    '333'
+    'Unhas',
+    'Qual o esmalte mais durável?',
+    'Esmalte em gel + top coat (dura até 3 semanas).'
 )
 
 criaCartao(
-    'Matue',
-    'Quem é Matue',
-    'Matuê é um rapper e cantor brasileiro, bastante conhecido na cena do trap e rap nacional'
+    'Unha',
+    'Unhas amarelas: como resolver?',
+    'Esfolie com bicarbonato+limão e use base branca antes do esmalte colorido.'
 )
 
 criaCartao(
-    'Tue',
-    'Qual a melhor musica do matue',
-    'Estou em dúvida'
+    'Alongamento ',
+    'Alongamento estraga a unha natural?',
+    'Só se retirado incorretamente. Prefira remoção profissional com acetona específic'
 )
 
 criaCartao(
-    '30',
-    'Oque é  a 30',
-    'A 30 é um dos álbuns mais conhecidos de Matuê, lançado em 2020💜💜💜'
+    'Esmalte',
+    'Como evitar que o esmalte comum descame rápido?',
+    'Passe álcool isopropílico antes do esmalte para remover gordura e aplique camadas bem finas.💜'
 )
